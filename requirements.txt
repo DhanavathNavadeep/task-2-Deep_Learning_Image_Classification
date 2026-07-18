@@ -1,0 +1,8 @@
+tensorflow
+matplotlib
+numpy
+opencv-python
+dogs-datasets 
+cats-datasets
+dogs-validation
+cats-validation
